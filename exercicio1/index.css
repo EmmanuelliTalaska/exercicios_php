@@ -1,0 +1,32 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+.titulo{
+    color: rgb(13, 54, 27);
+    font-size: 30px;
+    margin: 10px;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(122, 179, 122);
+}
+
+.num{
+    font-size: 25px;
+    margin: 10px;
+}
+
+.btn{
+    font-size: 40px;
+    width: 40px;
+    margin: 10px;
+}
+
+.resul{
+    border: 2px solid rgb(13, 54, 27);
+    font-size: 30px;
+    margin: 40px;
+}
