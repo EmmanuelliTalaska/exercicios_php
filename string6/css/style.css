@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    text-align: center;
+    background: rgb(53, 63, 121);
+}
+.cont{
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: rgb(121, 169, 231);
+    width: 400px;
+    padding: 30px;
+    height: 500px;
+}
+.res{
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 25px 12.5px;
+    padding: 10px;
+    width: 100px;
+    border: 3px solid black;
+}
