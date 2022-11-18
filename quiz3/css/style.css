@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    
+    .titulo{
+        color: rgb(24, 13, 54);
+        font-size: 30px;
+        margin: 10px;
+    }
+    
+    body{
+        text-align: center;
+        background-color: rgb(122, 149, 179);
+    }
+    
+    .inputR{
+        width: 200px;
+        height: 30px;
+    }
+    
+    button{
+        font-size: 30px;
+        margin: 10px;
+    }
+   
