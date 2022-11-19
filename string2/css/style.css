@@ -1,0 +1,10 @@
+body{
+    background-color: palevioletred;
+    text-align: center;
+    font-size: 30px;
+}
+button{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
