@@ -1,0 +1,9 @@
+body{
+    background-color:rgb(159, 184, 231);
+    text-align: center;
+}
+button{
+    font-size: 20px;
+    background-color: rgb(32, 20, 82);
+    color: white;
+}
